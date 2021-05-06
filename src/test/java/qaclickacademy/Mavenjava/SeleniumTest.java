@@ -26,5 +26,12 @@ public class SeleniumTest {
 		System.out.println("BrowserAutomation2");
 	}
 	
+	@Test
+	public void elementsUi3()
+	{
+		System.out.println("elementsUi");
+	}
+	
+	
 
 }
